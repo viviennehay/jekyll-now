@@ -4,17 +4,20 @@ date: 2017-07-16
 published: true
 ---
 
+
+Analysis of world values, especially how attitudes to work vary around the globe and across time.
+
 <br> <br>
 
 
 ## 1. Question definition <br>
 
-This project focuses on understanding the differences between attitudes to work around the world, and what drives those differences. Specifically:  <br> <br>
+ This project aims to answer three core questions:  <br> <br>
 a) What different values systems exist around the globe (focused on attitudes to work)? <br>
 b) What socio-economic factors influence a country's values system? <br>
 c) How well can we predict a country's values system, based on these factors?
 
-## 2. Get data
+## 2. Data & prep
 
 ### Import necessary modules & set environment variables
 
