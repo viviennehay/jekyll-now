@@ -1,10 +1,21 @@
----
-title: <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Manhattan_Skyline_night.jpg/800px-Manhattan_Skyline_night.jpg"> style="float: left; margin: 20px; height: 55px" NYC Taxi Pickups Geospatial Analysis
-date: 2017-06-15
-published: true
----
 
-<!-- img src="http://imgur.com/1ZcRyrc.png" style="float: left; margin: 20px; height: 55px" -->
+<img src="http://imgur.com/1ZcRyrc.png" style="float: left; margin: 20px; height: 55px">
+
+# Spatial Data Lab
+
+_Authors: Matt Brems (DC)_
+
+
+```python
+# widget
+```
+
+## NYC Data Component
+You should consult the [Geopandas Practice Notbook](geopandas-practice.ipynb) before diving into this lab.
+
+In that notebook, you're introduced to the `GeoDataFrame` object from `geopandas`. A `GeoDataFrame` is just like a `DataFrame`, except it contains a `geometry` column that identifies each row as an object in space. A row can either represent a point in space (in which case the `geometry` column contains `Points`) or an area (in which case the `geometry` column contains `Polygons`). A `GeoDataFrame` can contain more than one column which contains spatial information, but only one column at a time can identify the unique geometry of an observation.
+
+Here, we'll practice some of the same functionality and concepts.
 
 
 ```python
