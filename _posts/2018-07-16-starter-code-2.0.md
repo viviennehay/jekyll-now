@@ -4,7 +4,7 @@ date: 2017-07-16
 published: true
 ---
 
-# <img src="http://imgur.com/1ZcRyrc.png" style="float: left; margin: 20px; height: 55px">
+<!-- img src="http://imgur.com/1ZcRyrc.png" style="float: left; margin: 20px; height: 55px" -->
 
 
 ```python
