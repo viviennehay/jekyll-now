@@ -1,5 +1,5 @@
 ---
-title: NYC Taxi Pickups Geospatial Analysis
+title: <!-- img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Manhattan_Skyline_night.jpg/800px-Manhattan_Skyline_night.jpg" style="float: left; margin: 20px; height: 55px" -->NYC Taxi Pickups Geospatial Analysis
 date: 2017-06-15
 published: true
 ---
