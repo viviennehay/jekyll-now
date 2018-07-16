@@ -4,15 +4,10 @@ date: 2017-06-16
 published: true
 ---
 
-## 1. Problem definition
-
 This notebook uses geospatial techniques to model taxi movment patterns in New York City. We outline the boroughs according to their precise outlines, a convex hull approximation and a (square) envelope approximation. We then simulate data points throughout the city and aggregate them based on the outline, convex hull and envelope shapes to estimate taxi pickup frequncy by borough. While this is a very simple approximation, it lays a foundation for modeling point processes and areal processes, and could be improved by taking into account factors that would influence pickup frequency (e.g., population density)
 
-## 2. Analysis and assessment
-
-
 ```python
-# basic stuff
+# basic imports
 import os
 import pandas as pd
 import numpy as np
@@ -21,7 +16,7 @@ from urllib.request import urlretrieve
 from zipfile import ZipFile
 import pysal
 
-# geo stuff
+# geo imports
 import geopandas as gpd
 from shapely.geometry import Point
 # from ipyleaflet import (Map,
