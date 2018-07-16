@@ -1,6 +1,6 @@
 ---
 title: NYC Taxi Pickups Geospatial Analysis
-date: 2017-07-16
+date: 2017-06-15
 published: true
 ---
 
