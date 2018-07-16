@@ -1,5 +1,13 @@
 
-<img src="http://imgur.com/1ZcRyrc.png" style="float: left; margin: 20px; height: 55px">
+---
+title:  <img src="http://imgur.com/1ZcRyrc.png" style="float: left; margin: 20px; height: 55px"> World Values Analysis
+date: 2017-06-16
+published: true
+---
+
+<br> <br>
+
+
 
 # Spatial Data Lab
 

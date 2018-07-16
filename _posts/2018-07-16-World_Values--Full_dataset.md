@@ -1,5 +1,5 @@
 ---
-title:  img src="https://pbs.twimg.com/profile_images/587949417577066499/3uCD4xxY_400x400.jpg" style="float: left; margin: 20px; height: 55px" World Values Analysis
+title: World Values Analysis
 date: 2017-07-16
 published: true
 ---
