@@ -4,6 +4,8 @@ date: 2017-07-16
 published: true
 ---
 
+
+
 ## 1. Question definition <br>
 
 This project focuses on understanding the differences between attitudes to work around the world, and what drives those differences. Specifically:  <br> <br>
