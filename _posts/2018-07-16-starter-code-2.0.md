@@ -1,6 +1,6 @@
 
 ---
-title:  <img src="http://imgur.com/1ZcRyrc.png" style="float: left; margin: 50px; height: 55px"> NYC taxi geospatial analysis
+title:  NYC taxi geospatial analysis
 date: 2017-06-16
 published: true
 ---
@@ -9,21 +9,11 @@ published: true
 
 
 
-# Spatial Data Lab
+# Introduction
 
-_Authors: Matt Brems (DC)_
+This notebook uses geospatial techniques to model taxi movment patterns in New York City. We outline the boroughs according to their precise outlines, a convex hull approximation and a (square) envelope approximation. We then simulate data points throughout the city and aggregate them based on the outline, convex hull and envelope shapes to estimate taxi pickup frequncy by borough. While this is a very simple approximation, it lays a foundation for modeling point processes and areal processes, and could be improved by taking into account factors that would influence pickup frequency (e.g., population density)
 
-
-```python
-# widget
-```
-
-## NYC Data Component
-You should consult the [Geopandas Practice Notbook](geopandas-practice.ipynb) before diving into this lab.
-
-In that notebook, you're introduced to the `GeoDataFrame` object from `geopandas`. A `GeoDataFrame` is just like a `DataFrame`, except it contains a `geometry` column that identifies each row as an object in space. A row can either represent a point in space (in which case the `geometry` column contains `Points`) or an area (in which case the `geometry` column contains `Polygons`). A `GeoDataFrame` can contain more than one column which contains spatial information, but only one column at a time can identify the unique geometry of an observation.
-
-Here, we'll practice some of the same functionality and concepts.
+# Code
 
 
 ```python
