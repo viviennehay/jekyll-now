@@ -1,6 +1,6 @@
 
 ---
-title:  <img src="http://imgur.com/1ZcRyrc.png" style="float: left; margin: 0px; height: 55px"> NYC taxi geospatial analysis
+title:  <img src="http://imgur.com/1ZcRyrc.png" style="float: left; margin: 50px; height: 55px"> NYC taxi geospatial analysis
 date: 2017-06-16
 published: true
 ---
