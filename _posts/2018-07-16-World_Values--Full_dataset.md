@@ -1,5 +1,8 @@
-
-# World Values Analysis
+---
+title: World Values Analysis
+date: 2017-07-16
+published: true
+---
 
 ## 1. Define question <br>
 
